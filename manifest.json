@@ -1,6 +1,6 @@
 {
-  "name": "My App",
-  "short_name": "My App",
+  "name": "Kraig Walker",
+  "short_name": "Kraig Walker",
   "description": "My App description",
   "start_url": "/",
   "display": "standalone",
